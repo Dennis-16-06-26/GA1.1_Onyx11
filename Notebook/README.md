@@ -6,3 +6,4 @@ The subtract function takes two numerical values as input, (a,b) and minuses the
 The add function takes two numerical values as input and returns the sum of the two values. The function might break when it is given non-numerical values and/or complex numbers as inputs. 
 For adding the values 2 and 3, insert both values into the add(a,b) function as follows: add(2,3) or add(3,2). Both versions will return the sum of 2 and 3, namely 5. 
 A new function for summing a list of numbers was created in add.ipynb. This uses the previous add function in loop iterating over the list to create atotal sum of all components.
+The square function takes a single numerical input and returns the square of this value. The function might break when it is given non-numerical values and/or complex numbers as inputs. For squaeing the value 5, insert the value into the square(x) function as square(5). The return will be 25.  
